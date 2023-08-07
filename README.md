@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdubey1198&label=Profile%20views&color=0e75b6&style=flat" alt="harshdubey1198" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React-Native**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C/C++**
 
 - 📫 How to reach me **amanad08052@gmail.com**
 
