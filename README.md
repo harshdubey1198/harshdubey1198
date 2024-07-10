@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdubey1198&label=Profile%20views&color=0e75b6&style=flat" alt="harshdubey1198" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **Full Stack Developer**
 
 - 💬 Ask me about **C/C++ , Html, Css, Javascript, React, Nodejs, Github, Firebase and Domains**
 
