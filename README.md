@@ -28,14 +28,14 @@
 
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Imrajsrivastava&count_private=true&show_icons=true&theme=onedark" alt="Raj Srivastava" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=Imrajsrivastava&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Raj Srivastava" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=harshdubey1198&count_private=true&show_icons=true&theme=onedark" alt="HARSH DUBEY" />
+    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=harshdubey1198&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="HARSH DUBEY" />
     
 </div>
 
 ## 🏆 Trophies:
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Imrajsrivastava&theme=onedark" alt="Imrajsrivastava" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdubey1198&theme=onedark" alt="HARSH DUBEY" /></a> </p>
 
 
 Thanks for reaching me out
