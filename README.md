@@ -29,7 +29,7 @@
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=harshdubey1198&count_private=true&show_icons=true&theme=onedark" alt="HARSH DUBEY" />
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshdubey1198&theme=onedark-duo)](https://git.io/streak-stats)
+    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com?user=harshdubey1198&theme=onedark-duo" alt="HARSH DUBEY" />
     
 </div>
 
